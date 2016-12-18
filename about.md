@@ -3,4 +3,4 @@ layout: page
 title: About me 
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+This is a static page. Maybe I'll writing something about myself? I dunno.

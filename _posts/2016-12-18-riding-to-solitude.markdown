@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Seeking complete solitude
-date:   20112-181-10 10:18:00
+title:  "Seeking complete solitude"
+date:   2016-12-18 10:18:00
 categories: musing cycling
 ---
 
